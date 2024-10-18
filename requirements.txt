@@ -1,5 +1,5 @@
 streamlit==1.22.0
-earthengine-api==0.1.341
+earthengine-api>=0.1.347
 geemap==0.22.1
 folium==0.14.0
 pandas==1.5.3
