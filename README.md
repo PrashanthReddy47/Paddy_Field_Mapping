@@ -1,4 +1,4 @@
-# Paddy Field Mapping using Sentinel-2 Imagery NDVI and Machine Learning
+# [Paddy Field Mapping using Sentinel-2 Imagery NDVI and Machine Learning](https://ndvi-paddy-field-mapper.streamlit.app/)
 
 This Streamlit app demonstrates paddy field mapping using Sentinel-2 imagery and machine learning techniques in the Nalgonda District, India. It compares NDVI thresholding with Random Forest and SVM classifications to identify and analyze paddy fields in the region.
 
